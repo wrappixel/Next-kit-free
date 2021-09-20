@@ -42,8 +42,37 @@ The free version of NextKit Nextjs UI Kit Lite provides you with a library consi
 </li>
 </ul>
 
-<!-- Upgrade to Premium version of Template -->
-<h2>Upgrade to Premium Admin Dashboards</h2>
+<!-- Free and Premium Templates -->
+<h2>Free and Premium Templates</h2>
+<!-- Ui Kits  -->
+<table>
+  <thead>
+<tr>
+<th>Wrapkit Bootstrap</th>
+<th>NextKit – Nuxt Js Vuetify UI Kit</th>
+<th>WrapKit React Lite UI Kit</th>
+</tr>
+</thead>
+  <tbody>
+     <tr>
+      <td>
+        <a href="https://www.wrappixel.com/templates/wrapkit/" rel="nofollow" width="150px">
+          <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/06/wrapkit-complete-ui-kit-y-20.jpg" alt="Wrapkit Bootstrap" style="max-width:150px;">
+        </a>
+      </td> 
+      <td>
+        <a href="https://www.wrappixel.com/templates/nextkit-nuxtjs-free-uikit/" rel="nofollow" width="150px">
+          <img src="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nuxtjs-free-ui-kit.jpg" alt="NextKit – Nuxt Js Vuetify UI Kit" style="max-width:150px;">
+        </a>
+      </td> 
+      <td>
+        <a href="https://www.wrappixel.com/templates/wrapkit-react-lite/" rel="nofollow" width="150px">
+          <img src="https://www.wrappixel.com/wp-content/uploads/edd/2020/04/wrapkit-react-lite-y.jpg" alt="WrapKit React Lite UI Kit" style="max-width:150px;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- bootstrap premium dashboards -->
 <table>
