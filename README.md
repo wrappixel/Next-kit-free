@@ -4,7 +4,7 @@
 </h1>
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nextkit-nextjs-free-uikit.jpg">
+<a target="_blank" href="https://next-kit-free.vercel.app/">
   <img src="https://www.wrappixel.com/wp-content/uploads/edd/2021/09/nextkit-nextjs-free-uikit.jpg" />
 </a>
 
